@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>girish.la@gmail.com</contactEmail>
+    <label>Popcorn</label>
+    <oauthConfig>
+        <callbackUrl>https://test.salesforce.com/services/oauth2/success</callbackUrl>
+        <certificate>MIIEATCCAumgAwIBAgIUDMA++mamM6RB3YdfWVOzo7H0a3MwDQYJKoZIhvcNAQELBQAwgY8xCzAJBgNVBAYTAkdCMQ8wDQYDVQQIDAZTdXJyZXkxDzANBgNVBAcMBkxvbmRvbjESMBAGA1UECgwJQmlnbWFudHJhMRIwEAYDVQQLDAlDb3Jwb3JhdGUxEjAQBgNVBAMMCWJpZ21hbnRyYTEiMCAGCSqGSIb3DQEJARYTZ2lyaXNoLmxhQGdtYWlsLmNvbTAeFw0xODA5MTQxMDI3MjhaFw0xODEwMTQxMDI3MjhaMIGPMQswCQYDVQQGEwJHQjEPMA0GA1UECAwGU3VycmV5MQ8wDQYDVQQHDAZMb25kb24xEjAQBgNVBAoMCUJpZ21hbnRyYTESMBAGA1UECwwJQ29ycG9yYXRlMRIwEAYDVQQDDAliaWdtYW50cmExIjAgBgkqhkiG9w0BCQEWE2dpcmlzaC5sYUBnbWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC+jsDz2qcUT0W6FNnqulNF1MZZvuHscgEo6oiyJlFw93MzNFUkzWLJK+k8TQ/al618qm8boyV1E5GsZiM0xAS5txPJZ918rqlhhtmzwPT/mIaWAH7ze+WQY7CKgN1Gtd7fnAlBMNr4UjmkK+w1ngB/brSmByDtdyGV9ydzUHFNvtZ2KY26X+7+7rdoXcBjiLsxL4FqxYNxHzqD/Sk+msmoDr4uJm6A7vTKXHvRHgG6/qZS9WiR9UMBOB/xjASWu68Q74JqC6C6+zplxICRe/o5wscjw4AXePnQe63zprjjurFT6KwxBgPeZjnuRd9GVicXgNP/wweRxaWuVNLXV5eZAgMBAAGjUzBRMB0GA1UdDgQWBBStuajFJVj0TAH5F6Tkpim0xJdKmjAfBgNVHSMEGDAWgBStuajFJVj0TAH5F6Tkpim0xJdKmjAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQAY/3v5y06iSwUzfdwpgAX8d93duzIeVMc/1c42YSCrX32tgEXNsNoYeQ96QiMYLDnMjcCRESh9Mqxus7wLMoOy8/AYLpdfbuJGsNwOvnqQPiMl70AM1OmlJsOlyinxIHu74ZQXsbYi1vLPU9cY/wS6Ubzig4OTqKfixNzckhe71yJ7ls9/59V8T+7xaDBhFb0blXKo8XCTpuP4nwzYLmALNJSHH2XMBlEkDmGiwjWSI61x8e/PNyXsxlOI8TT3s4oKYM6uK9ZUBFf+Kxiue+s9j3r+TKRxrUBh8w2zrLl66UO+5k2sRW94uJ7vI5Khg7eApteLncTinBkUexM19oZv</certificate>
+        <consumerKey></consumerKey>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Full</scopes>
+        <scopes>CustomApplications</scopes>
+        <scopes>RefreshToken</scopes>
+        <scopes>OpenID</scopes>
+    </oauthConfig>
+</ConnectedApp>
