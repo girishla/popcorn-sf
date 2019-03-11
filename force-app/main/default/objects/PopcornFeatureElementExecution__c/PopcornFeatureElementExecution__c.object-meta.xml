@@ -47,10 +47,12 @@
     <enableBulkApi>false</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
+    <enableLicensing>false</enableLicensing>
     <enableReports>true</enableReports>
     <enableSearch>false</enableSearch>
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
+    <externalSharingModel>ControlledByParent</externalSharingModel>
     <label>Popcorn Feature Element Execution</label>
     <nameField>
         <displayFormat>SEXEC#{YYYY}{MM}{DD}-{000}</displayFormat>

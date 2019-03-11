@@ -15,7 +15,7 @@
                 <field>Keyword__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Required</behavior>
                 <field>MatchLocation__c</field>
             </layoutItems>
             <layoutItems>

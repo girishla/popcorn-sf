@@ -76,11 +76,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>PopcornStep__c.MatchLocation__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Popcorn_Persona__c.Address__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -190,6 +185,10 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <tabSettings>
+        <tab>PopcornExecution__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
         <tab>PopcornFeatureElement__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
@@ -199,10 +198,6 @@
     </tabSettings>
     <tabSettings>
         <tab>Popcorn_Persona__c</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
-        <tabSettings>
-        <tab>PopcornExecution__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
 </PermissionSet>

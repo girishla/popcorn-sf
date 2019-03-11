@@ -47,13 +47,15 @@
     <enableBulkApi>false</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
+    <enableLicensing>false</enableLicensing>
     <enableReports>true</enableReports>
     <enableSearch>true</enableSearch>
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
+    <externalSharingModel>ControlledByParent</externalSharingModel>
     <label>Scenario</label>
     <nameField>
-        <label>Element Short Name</label>
+        <label>Scenario Id</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Scenarios</pluralLabel>

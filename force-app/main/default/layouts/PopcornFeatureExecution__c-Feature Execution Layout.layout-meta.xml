@@ -18,6 +18,10 @@
                 <behavior>Edit</behavior>
                 <field>Feature__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>FeatureExecutionRef__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns/>
         <style>TwoColumnsTopToBottom</style>
